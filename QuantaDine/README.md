@@ -2,7 +2,6 @@
 
 A complete restaurant analytics and machine learning dashboard built using **Python**, **Streamlit**, and **Machine Learning**.
 
----
 
 #  Features
 
@@ -76,27 +75,9 @@ QuantaDine/
 ├── restaurant_orders_raw.csv
 ├── data_set.ipynb
 └── README.md
-```
 
----
 
-# ▶ Run the Project
-
-## Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-## Run Streamlit App
-
-```bash
-python -m streamlit run app.py
-```
-
----
-
-# 📌 Machine Learning Workflow
+#  Machine Learning Workflow
 
 1. Data Cleaning
 2. Feature Engineering
@@ -106,14 +87,14 @@ python -m streamlit run app.py
 6. Model Saving using Joblib
 7. Streamlit Deployment
 
----
 
-# 📈 Models Used
+
+#  Models Used
 
 * Random Forest Regressor
 * Linear Regression
 
----
+
 
 
 
